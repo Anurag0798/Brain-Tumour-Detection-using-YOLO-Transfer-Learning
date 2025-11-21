@@ -1,0 +1,5 @@
+path: C:/Users/MSI/Desktop/Important Data/Euron/Full_Stack_Data_Science/05_Deep_Learning/04_Image_Processing(OpenCV)/02_Brain_Tumour_Detection_App(Custom_YOLO)/dataset
+train: images/train
+val: images/val
+nc: 2
+names: ['no tumour', 'tumour']
